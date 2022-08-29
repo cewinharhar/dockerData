@@ -1,0 +1,121 @@
+PG.ProteinAccessions,proteinName
+Q8WWV6,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor
+P0DOX2,Immunoglobulin alpha-2 heavy chain
+P0DOX3,Immunoglobulin delta heavy chain
+P01876,Immunoglobulin heavy constant alpha 1
+P01880,Immunoglobulin heavy constant delta
+P01859,Immunoglobulin heavy constant gamma 2
+P01860,Immunoglobulin heavy constant gamma 3
+P01861,Immunoglobulin heavy constant gamma 4
+P01871,Immunoglobulin heavy constant mu
+A0A0C4DH31,Immunoglobulin heavy variable 1-18
+P23083,Immunoglobulin heavy variable 1-2
+A0A0C4DH33,Immunoglobulin heavy variable 1-24
+A0A0C4DH29,Immunoglobulin heavy variable 1-3
+A0A0A0MS14,Immunoglobulin heavy variable 1-45
+P01743,Immunoglobulin heavy variable 1-46
+A0A0C4DH39,Immunoglobulin heavy variable 1-58
+P01742,Immunoglobulin heavy variable 1-69
+A0A0B4J2H0,Immunoglobulin heavy variable 1-69D
+P0DP01,Immunoglobulin heavy variable 1-8
+A0A0B4J1V2,Immunoglobulin heavy variable 2-26
+P01817,Immunoglobulin heavy variable 2-5
+P01814,Immunoglobulin heavy variable 2-70
+A0A0C4DH43,Immunoglobulin heavy variable 2-70D
+P01762,Immunoglobulin heavy variable 3-11
+P01766,Immunoglobulin heavy variable 3-13
+A0A0B4J1V0,Immunoglobulin heavy variable 3-15
+A0A0C4DH32,Immunoglobulin heavy variable 3-20
+A0A0B4J1V1,Immunoglobulin heavy variable 3-21
+P01764,Immunoglobulin heavy variable 3-23
+P01772,Immunoglobulin heavy variable 3-33
+A0A0B4J1X8,Immunoglobulin heavy variable 3-43
+P01763,Immunoglobulin heavy variable 3-48
+A0A0A0MS15,Immunoglobulin heavy variable 3-49
+A0A075B6Q5,Immunoglobulin heavy variable 3-64
+A0A0J9YX35,Immunoglobulin heavy variable 3-64D
+P01780,Immunoglobulin heavy variable 3-7
+A0A0B4J1Y9,Immunoglobulin heavy variable 3-72
+A0A0B4J1V6,Immunoglobulin heavy variable 3-73
+A0A0B4J1X5,Immunoglobulin heavy variable 3-74
+A0A0C4DH34,Immunoglobulin heavy variable 4-28
+A0A087WSY4,Immunoglobulin heavy variable 4-30-2
+P06331,Immunoglobulin heavy variable 4-34
+P0DP08,Immunoglobulin heavy variable 4-38-2
+A0A075B6R2,Immunoglobulin heavy variable 4-4
+A0A0J9YXX1,Immunoglobulin heavy variable 5-10-1
+A0A0C4DH38,Immunoglobulin heavy variable 5-51
+A0A0B4J1U7,Immunoglobulin heavy variable 6-1
+P01591,Immunoglobulin J chain
+P01834,Immunoglobulin kappa constant
+P0DOX7,Immunoglobulin kappa light chain
+P04430,Immunoglobulin kappa variable 1-16
+P01599,Immunoglobulin kappa variable 1-17
+A0A075B6S5,Immunoglobulin kappa variable 1-27
+P01602,Immunoglobulin kappa variable 1-5
+A0A0C4DH67,Immunoglobulin kappa variable 1-8
+P01601,Immunoglobulin kappa variable 1D-16
+A0A087WSZ0,Immunoglobulin kappa variable 1D-8
+P06310,Immunoglobulin kappa variable 2-30
+A0A075B6S2,Immunoglobulin kappa variable 2D-29
+P01619,Immunoglobulin kappa variable 3-20
+A0A087WSY6,Immunoglobulin kappa variable 3D-15
+A0A0C4DH25,Immunoglobulin kappa variable 3D-20
+P06312,Immunoglobulin kappa variable 4-1
+A0A0C4DH24,Immunoglobulin kappa variable 6-21
+P0CF74,Immunoglobulin lambda constant 6
+A0M8Q6,Immunoglobulin lambda constant 7
+A0A075B6I4,Immunoglobulin lambda variable 10-54
+A0A0B4J1U3,Immunoglobulin lambda variable 1-36
+P01703,Immunoglobulin lambda variable 1-40
+P01700,Immunoglobulin lambda variable 1-47
+P01701,Immunoglobulin lambda variable 1-51
+P01706,Immunoglobulin lambda variable 2-11
+P01704,Immunoglobulin lambda variable 2-14
+A0A075B6J9,Immunoglobulin lambda variable 2-18
+P01715,Immunoglobulin lambda variable 3-1
+A0A075B6K4,Immunoglobulin lambda variable 3-10
+A0A075B6K2,Immunoglobulin lambda variable 3-12
+A0A075B6K0,Immunoglobulin lambda variable 3-16
+P01714,Immunoglobulin lambda variable 3-19
+P80748,Immunoglobulin lambda variable 3-21
+P01717,Immunoglobulin lambda variable 3-25
+P01718,Immunoglobulin lambda variable 3-27
+A0A075B6K5,Immunoglobulin lambda variable 3-9
+A0A075B6I1,Immunoglobulin lambda variable 4-60
+A0A075B6H9,Immunoglobulin lambda variable 4-69
+A0A075B6J1,Immunoglobulin lambda variable 5-37
+A0A0G2JS06,Immunoglobulin lambda variable 5-39
+A0A087WSX0,Immunoglobulin lambda variable 5-45
+P01721,Immunoglobulin lambda variable 6-57
+P04211,Immunoglobulin lambda variable 7-43
+A0A075B6I9,Immunoglobulin lambda variable 7-46
+A0A075B6I0,Immunoglobulin lambda variable 8-61
+A0A0B4J1Y8,Immunoglobulin lambda variable 9-49
+P0DOX8,Immunoglobulin lambda-1 light chain
+P15814,Immunoglobulin lambda-like polypeptide 1
+P0DOX6,Immunoglobulin mu heavy chain
+O14498,Immunoglobulin superfamily containing leucine-rich repeat protein
+Q8TDY8,Immunoglobulin superfamily DCC subclass member 4
+O94898,Leucine-rich repeats and immunoglobulin-like domains protein 2
+Q8N149,Leukocyte immunoglobulin-like receptor subfamily A member 2
+Q8N6C8,Leukocyte immunoglobulin-like receptor subfamily A member 3
+A6NI73,Leukocyte immunoglobulin-like receptor subfamily A member 5
+Q6PI73,Leukocyte immunoglobulin-like receptor subfamily A member 6
+Q8NHL6,Leukocyte immunoglobulin-like receptor subfamily B member 1
+Q8N423,Leukocyte immunoglobulin-like receptor subfamily B member 2
+Q8NHJ6,Leukocyte immunoglobulin-like receptor subfamily B member 4
+O75023,Leukocyte immunoglobulin-like receptor subfamily B member 5
+P12318,Low affinity immunoglobulin gamma Fc region receptor II-a
+P08637,Low affinity immunoglobulin gamma Fc region receptor III-A
+O75015,Low affinity immunoglobulin gamma Fc region receptor III-B
+Q8IYS5,Osteoclast-associated immunoglobulin-like receptor
+P01833,Polymeric immunoglobulin receptor
+A0A0C4DH30,Probable non-functional immunoglobulin heavy variable 3-16
+A0A0C4DH36,Probable non-functional immunoglobulin heavy variable 3-38
+P0DTE1,Probable non-functional immunoglobulin heavy variable 3-38-3
+P0DTE2,Probable non-functional immunoglobulin heavy variable 8-51-1
+A0A075B6H7,Probable non-functional immunoglobulin kappa variable 3-7
+A0A075B6I7,Probable non-functional immunoglobulin lambda variable 5-48
+Q9Y279,V-set and immunoglobulin domain-containing protein 4
+Q8TEU8,"WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2"

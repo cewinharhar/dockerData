@@ -1,0 +1,1263 @@
+uniprot,proteinName,foldChange
+A0A075B6H9,Immunoglobulin lambda variable 4-69,0.948848335624422
+A0A075B6I0,Immunoglobulin lambda variable 8-61,0.0474258535750861
+A0A075B6I4,Immunoglobulin lambda variable 10-54,0.0468049563152741
+A0A075B6J9,Immunoglobulin lambda variable 2-18,0.0214027179622548
+A0A075B6K0,Immunoglobulin lambda variable 3-16,0.00796585768538882
+A0A075B6K4,Immunoglobulin lambda variable 3-10,0.0092548936847363
+A0A075B6K5,Immunoglobulin lambda variable 3-9,0.00778941149340392
+A0A075B6P5,Immunoglobulin kappa variable 2-28,0.0323116574486757
+A0A075B6Q5,Immunoglobulin heavy variable 3-64,0.00262806130868735
+A0A075B6R2,Immunoglobulin heavy variable 4-4,0.0117271910377427
+A0A075B6R9,Probable non-functional immunoglobulin kappa variable 2D-24,0.00772118106360369
+A0A075B6S2,Immunoglobulin kappa variable 2D-29,0.0046498131428611
+A0A075B6S5,Immunoglobulin kappa variable 1-27,0.00513476904091317
+A0A075B6S9,Probable non-functional immunoglobulinn kappa variable 1-37,0.0156635787843786
+A0A087WSX0,Immunoglobulin lambda variable 5-45,0.133572199405335
+A0A087WSY4,Immunoglobulin heavy variable 4-30-2,0.0219939947653507
+A0A087WSY6,Immunoglobulin kappa variable 3D-15,0.00474422903815507
+A0A087WSZ0,Immunoglobulin kappa variable 1D-8,0.00243248742396899
+A0A0A0MS15,Immunoglobulin heavy variable 3-49,0.00828964410370181
+A0A0A0MT36,Immunoglobulin kappa variable 6D-21,0.149230038476567
+A0A0B4J1U3,Immunoglobulin lambda variable 1-36,0.0110763437955807
+A0A0B4J1U7,Immunoglobulin heavy variable 6-1,0.00130713187101651
+A0A0B4J1V0,Immunoglobulin heavy variable 3-15,0.00768198446751375
+A0A0B4J1V1,Immunoglobulin heavy variable 3-21,0.00236268617219653
+A0A0B4J1V2,Immunoglobulin heavy variable 2-26,0.00995902964684302
+A0A0B4J1V6,Immunoglobulin heavy variable 3-73,0.00675084826063561
+A0A0B4J1X5,Immunoglobulin heavy variable 3-74,0.00147279325430549
+A0A0B4J1X8,Immunoglobulin heavy variable 3-43,0.0130850596502524
+A0A0B4J1Y8,Immunoglobulin lambda variable 9-49,0.00530766510210241
+A0A0B4J1Y9,Immunoglobulin heavy variable 3-72,0.00921632985991974
+A0A0B4J2D5,"Putative glutamine amidotransferase-like class 1 domain-containing protein 3B, mitochondrial",1.50798750064312
+A0A0B4J2D9,Immunoglobulin kappa variable 1D-13,0.0059032701536507
+A0A0C4DH24,Immunoglobulin kappa variable 6-21,0.0359332682275139
+A0A0C4DH29,Immunoglobulin heavy variable 1-3,0.0129049483464335
+A0A0C4DH31,Immunoglobulin heavy variable 1-18,0.00438715992513799
+A0A0C4DH33,Immunoglobulin heavy variable 1-24,0.00446439980386994
+A0A0C4DH34,Immunoglobulin heavy variable 4-28,0.00887950113457181
+A0A0C4DH35,Probable non-functional immunoglobulin heavy variable 3-35,0.00904403418556397
+A0A0C4DH36,Probable non-functional immunoglobulin heavy variable 3-38,0.00235262257083506
+A0A0C4DH38,Immunoglobulin heavy variable 5-51,0.0182822359601483
+A0A0C4DH39,Immunoglobulin heavy variable 1-58,0.0440932933727752
+A0A0C4DH43,Immunoglobulin heavy variable 2-70D,0.0261830220026564
+A0A0C4DH67,Immunoglobulin kappa variable 1-8,0.00818181522605581
+A0A0C4DH73,Immunoglobulin kappa variable 1-12,0.00489251263978387
+A0A0G2JS06,Immunoglobulin lambda variable 5-39,0.0177867430094404
+A0A0J9YX35,Immunoglobulin heavy variable 3-64D,0.011855079507235
+A0A0J9YXX1,Immunoglobulin heavy variable 5-10-1,0.0220523129728011
+A0M8Q6,Immunoglobulin lambda constant 7,0.00914373802645655
+A2NJV5,Immunoglobulin kappa variable 2-29,0.0266937068050327
+A6ND91,Putative L-aspartate dehydrogenase,0.283609066891554
+A6NH11,Glycolipid transfer protein domain-containing protein 2,1.56707813323655
+A8K7I4,Calcium-activated chloride channel regulator 1,0.152287983840374
+O00151,PDZ and LIM domain protein 1,1.13038502727736
+O00187,Mannan-binding lectin serine protease 2,8.11041211197274
+O00233,26S proteasome non-ATPase regulatory subunit 9,1.69218936835361
+O00299,Chloride intracellular channel protein 1,16.5797110125421
+O00391,Sulfhydryl oxidase 1,1.30533682632639
+O00429,Dynamin-1-like protein,1.17115190156583
+O00462,Beta-mannosidase,6.55989353919297
+O00584,Ribonuclease T2,3.15442338315899
+O00602,Ficolin-1,2.71268703479689
+O00754,Lysosomal alpha-mannosidase,2.74405431863036
+O14602,"Eukaryotic translation initiation factor 1A, Y-chromosomal",0.149164907025704
+O14745,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,5.31568298255754
+O14786,Neuropilin-1,54.9379406394783
+O14791,Apolipoprotein L1,0.0491289868485905
+O14793,Growth/differentiation factor 8,0.830531593996716
+O14818,Proteasome subunit alpha type-7,1.63127199596599
+O14960,Leukocyte cell-derived chemotaxin-2,1.71909544902852
+O14964,Hepatocyte growth factor-regulated tyrosine kinase substrate,1.45385925955568
+O15117,FYN-binding protein 1,2.54807238454395
+O15143,Actin-related protein 2/3 complex subunit 1B,1.56079259761071
+O15144,Actin-related protein 2/3 complex subunit 2,4.82847884018762
+O15145,Actin-related protein 2/3 complex subunit 3,1.49542847723684
+O15204,ADAM DEC1,2.08453667108099
+O15335,Chondroadherin,2.88377990286817
+O15371,Eukaryotic translation initiation factor 3 subunit D,0.644774785065696
+O15394,Neural cell adhesion molecule 2,0.238033003744798
+O15400,Syntaxin-7,1.18540842752652
+O15467,C-C motif chemokine 16,1.19601670647692
+O15511,Actin-related protein 2/3 complex subunit 5,2.0301760381212
+O43157,Plexin-B1,11.359081372772
+O43396,Thioredoxin-like protein 1,2.64769183426933
+O43399,Tumor protein D54,0.999277303504402
+O43488,Aflatoxin B1 aldehyde reductase member 2,1.60932746031432
+O43505,"Beta-1,4-glucuronyltransferase 1",4.03077944764387
+O43516,WAS/WASL-interacting protein family member 1,1.51339873472897
+O43583,Density-regulated protein,0.585534364251283
+O43665,Regulator of G-protein signaling 10,1.32466045030007
+O43707,Alpha-actinin-4,12.2329355931108
+O43768,Alpha-endosulfine,0.606062401529049
+O43866,CD5 antigen-like,0.200537442988216
+O43915,Vascular endothelial growth factor D,0.832745363964536
+O60234,Glia maturation factor gamma,12.6910680007201
+O60256,Phosphoribosyl pyrophosphate synthase-associated protein 2,1.77243906213378
+O60476,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IB",1.05515471120659
+O60493,Sorting nexin-3,2.04421843996133
+O60506,Heterogeneous nuclear ribonucleoprotein Q,0.481421039788039
+O60610,Protein diaphanous homolog 1,1.45227834535813
+O60701,UDP-glucose 6-dehydrogenase,0.576528706875366
+O60814,Histone H2B type 1-K,0.248883601636988
+O60844,Zymogen granule membrane protein 16,2.53579914992582
+O75083,WD repeat-containing protein 1,2.04790416045944
+O75131,Copine-3,2.08869609782084
+O75223,Gamma-glutamylcyclotransferase,0.377615488201526
+O75326,Semaphorin-7A,1.57913450941124
+O75339,Cartilage intermediate layer protein 1,1.54815922314638
+O75340,Programmed cell death protein 6,0.959593645431953
+O75347,Tubulin-specific chaperone A,1.22001703820954
+O75351,Vacuolar protein sorting-associated protein 4B,1.78260475218581
+O75356,Nucleoside diphosphate phosphatase ENTPD5,3.73131380025171
+O75368,SH3 domain-binding glutamic acid-rich-like protein,5.73261672023134
+O75369,Filamin-B,0.968951874160421
+O75390,"Citrate synthase, mitochondrial",6.77309499281193
+O75460,Serine/threonine-protein kinase/endoribonuclease IRE1,12.5769688667117
+O75563,Src kinase-associated phosphoprotein 2,4.08356850685313
+O75594,Peptidoglycan recognition protein 1,1.15229118515059
+O75608,Acyl-protein thioesterase 1,2.56172658047117
+O75636,Ficolin-3,1.16966916245049
+O75821,Eukaryotic translation initiation factor 3 subunit G,0.702317971272946
+O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,1.46172993533163
+O75882,Attractin,69.6811041384561
+O75955,Flotillin-1,0.467823131072326
+O75995,SAM and SH3 domain-containing protein 3,0.859881000299353
+O76061,Stanniocalcin-2,0.962754450988914
+O94766,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3,1.64100039350129
+O94769,Extracellular matrix protein 2,0.078575748544999
+O94903,Pyridoxal phosphate homeostasis protein,0.434307495852164
+O94979,Protein transport protein Sec31A,0.615729102789987
+O95154,Aflatoxin B1 aldehyde reductase member 3,0.990575889518636
+O95336,6-phosphogluconolactonase,3.9833550071439
+O95372,Acyl-protein thioesterase 2,0.258238465730139
+O95428,Papilin,1.1600244859673
+O95445,Apolipoprotein M,0.260250202269474
+O95479,GDH/6PGL endoplasmic bifunctional protein,2.63919340198193
+O95747,Serine/threonine-protein kinase OSR1,4.17299316006399
+O95782,AP-2 complex subunit alpha-1,1.87056103563191
+O95810,Caveolae-associated protein 2,2.21370506255473
+O95865,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 2",2.7190811689606
+O95954,Formimidoyltransferase-cyclodeaminase,0.756890068307382
+O95967,EGF-containing fibulin-like extracellular matrix protein 2,1.94289446597805
+P00325,All-trans-retinol dehydrogenase [NAD(+)] ADH1B,2.01768296504458
+P00338,L-lactate dehydrogenase A chain,6.27325329306662
+P00352,Aldehyde dehydrogenase 1A1,1.65555213750567
+P00367,"Glutamate dehydrogenase 1, mitochondrial",0.618628364110671
+P00390,"Glutathione reductase, mitochondrial",0.8784102343067
+P00450,Ceruloplasmin,14.0983432228941
+P00451,Coagulation factor VIII,2.64696014610397
+P00480,"Ornithine transcarbamylase, mitochondrial",2.3043360867729
+P00488,Coagulation factor XIII A chain,10.9126024116127
+P00491,Purine nucleoside phosphorylase,2.75813902077456
+P00492,Hypoxanthine-guanine phosphoribosyltransferase,0.500135291021173
+P00505,"Aspartate aminotransferase, mitochondrial",0.7166354770223
+P00558,Phosphoglycerate kinase 1,1.12386173730333
+P00568,Adenylate kinase isoenzyme 1,0.797012031411506
+P00734,Prothrombin,14.563755115065
+P00736,Complement C1r subcomponent,31.7933247509532
+P00738,Haptoglobin,11.3122752526986
+P00739,Haptoglobin-related protein,2.44294474098971
+P00740,Coagulation factor IX,28.7457590261793
+P00742,Coagulation factor X,33.9988034324379
+P00746,Complement factor D,0.929470447745782
+P00747,Plasminogen,0.895013696145985
+P00748,Coagulation factor XII,1.1038998589774
+P00751,Complement factor B,0.746431868005791
+P00915,Carbonic anhydrase 1,1.79372486085847
+P00918,Carbonic anhydrase 2,1.09789187485391
+P00966,Argininosuccinate synthase,1.91752859082234
+P01008,Antithrombin-III,15.0002867800154
+P01009,Alpha-1-antitrypsin,0.687381316092433
+P01011,Alpha-1-antichymotrypsin,23.1584130574862
+P01019,Angiotensinogen,7.23361328216059
+P01023,Alpha-2-macroglobulin,0.992778145718968
+P01024,Complement C3,0.0103109226468286
+P01031,Complement C5,3.07662984504813
+P01033,Metalloproteinase inhibitor 1,1.54158289574516
+P01034,Cystatin-C,0.166953408307695
+P01042,Kininogen-1,4.71528743640484
+P01137,Transforming growth factor beta-1 proprotein,1.49865533130175
+P01236,Prolactin,0.48209984563621
+P01344,Insulin-like growth factor II,0.800514977606471
+P01591,Immunoglobulin J chain,0.0615466602084944
+P01593,Immunoglobulin kappa variable 1D-33,0.00579929543006451
+P01597,Immunoglobulin kappa variable 1-39,0.00518022711031817
+P01599,Immunoglobulin kappa variable 1-17,0.00428893800739096
+P01601,Immunoglobulin kappa variable 1D-16,0.00563966697709026
+P01602,Immunoglobulin kappa variable 1-5,0.0052780472836413
+P01619,Immunoglobulin kappa variable 3-20,0.00384900445918127
+P01701,Immunoglobulin lambda variable 1-51,0.00903346523615886
+P01703,Immunoglobulin lambda variable 1-40,0.128776511784499
+P01704,Immunoglobulin lambda variable 2-14,0.0232430881755954
+P01705,Immunoglobulin lambda variable 2-23,0.0288183531973059
+P01706,Immunoglobulin lambda variable 2-11,0.0160669740660752
+P01709,Immunoglobulin lambda variable 2-8,0.00800865632380924
+P01714,Immunoglobulin lambda variable 3-19,0.00448282590250227
+P01715,Immunoglobulin lambda variable 3-1,0.0172929905713602
+P01717,Immunoglobulin lambda variable 3-25,0.00583892253061437
+P01718,Immunoglobulin lambda variable 3-27,0.00907723842433555
+P01721,Immunoglobulin lambda variable 6-57,0.0111313468342588
+P01742,Immunoglobulin heavy variable 1-69,0.0134116458863162
+P01743,Immunoglobulin heavy variable 1-46,0.0102909549066254
+P01762,Immunoglobulin heavy variable 3-11,0.000883075660046695
+P01763,Immunoglobulin heavy variable 3-48,0.00695754259623036
+P01766,Immunoglobulin heavy variable 3-13,0.0138492918392491
+P01768,Immunoglobulin heavy variable 3-30,0.00467045793934111
+P01780,Immunoglobulin heavy variable 3-7,0.00179065645336172
+P01817,Immunoglobulin heavy variable 2-5,0.0188824178942835
+P01833,Polymeric immunoglobulin receptor,0.0925916568781892
+P01834,Immunoglobulin kappa constant,0.00409552701504645
+P01854,Immunoglobulin heavy constant epsilon,0.21559732235208
+P01857,Immunoglobulin heavy constant gamma 1,0.00895276408388536
+P01859,Immunoglobulin heavy constant gamma 2,0.00108484205937326
+P01860,Immunoglobulin heavy constant gamma 3,0.0335763576567449
+P01871,Immunoglobulin heavy constant mu,0.0287054313813947
+P01876,Immunoglobulin heavy constant alpha 1,0.0466741714818275
+P01880,Immunoglobulin heavy constant delta,0.0931783617675103
+P01889,"HLA class I histocompatibility antigen, B alpha chain",1.88819105207583
+P02008,Hemoglobin subunit zeta,0.437892410890409
+P02042,Hemoglobin subunit delta,0.0692266390499889
+P02100,Hemoglobin subunit epsilon,0.10116882250665
+P02144,Myoglobin,0.824274406115055
+P02452,Collagen alpha-1(I) chain,1.69767249219401
+P02461,Collagen alpha-1(III) chain,12.1194836250244
+P02462,Collagen alpha-1(IV) chain,1.08215674894199
+P02533,"Keratin, type I cytoskeletal 14",0.0650911167985089
+P02538,"Keratin, type II cytoskeletal 6A",0.168034029474343
+P02545,Prelamin-A/C,0.649295417508976
+P02647,Apolipoprotein A-I,0.0288274140126487
+P02649,Apolipoprotein E,0.577870444153725
+P02652,Apolipoprotein A-II,0.153365492589864
+P02654,Apolipoprotein C-I,0.0062437507910032
+P02655,Apolipoprotein C-II,2.32468101571492
+P02656,Apolipoprotein C-III,1.27206283256756
+P02671,Fibrinogen alpha chain,0.22466816339907
+P02675,Fibrinogen beta chain,0.194037516025649
+P02679,Fibrinogen gamma chain,0.168625306069073
+P02730,Band 3 anion transport protein,1.35766291194591
+P02741,C-reactive protein,1.52470853126745
+P02743,Serum amyloid P-component,8.17057730707869
+P02745,Complement C1q subcomponent subunit A,4.55393455561442
+P02746,Complement C1q subcomponent subunit B,1.73908589750354
+P02747,Complement C1q subcomponent subunit C,2.02060241047658
+P02748,Complement component C9,9.35686797599964
+P02749,Beta-2-glycoprotein 1,0.99129370430804
+P02750,Leucine-rich alpha-2-glycoprotein,75.5199256804964
+P02751,Fibronectin,1.37849912753529
+P02753,Retinol-binding protein 4,2.23303698073322
+P02760,Protein AMBP,3.20511201134094
+P02763,Alpha-1-acid glycoprotein 1,0.0426146116441667
+P02765,Alpha-2-HS-glycoprotein,35.7243202038831
+P02766,Transthyretin,0.0253527128298334
+P02768,Albumin,0.000339621784922481
+P02774,Vitamin D-binding protein,9.49244728442101
+P02775,Platelet basic protein,0.543233027349897
+P02776,Platelet factor 4,0.862732146322343
+P02786,Transferrin receptor protein 1,2.54806758504366
+P02787,Serotransferrin,0.0606711398327912
+P02788,Lactotransferrin,1.91071741856128
+P02790,Hemopexin,55.1647014069209
+P02792,Ferritin light chain,53.3133424963157
+P02795,Metallothionein-2,0.145643441275082
+P03950,Angiogenin,1.95265342081636
+P03951,Coagulation factor XI,2.64790096804952
+P03952,Plasma kallikrein,1.44546885361542
+P03973,Antileukoproteinase,1.96878241993386
+P04003,C4b-binding protein alpha chain,2.51437708337616
+P04004,Vitronectin,2.33001540486556
+P04040,Catalase,1.21439500379734
+P04062,Lysosomal acid glucosylceramidase,0.753094506897385
+P04066,Tissue alpha-L-fucosidase,7.12749595268973
+P04070,Vitamin K-dependent protein C,42.5234560263894
+P04075,Fructose-bisphosphate aldolase A,1.60495479194064
+P04080,Cystatin-B,1.57135603282088
+P04083,Annexin A1,1.66943447789465
+P04114,Apolipoprotein B-100,1.28020388608573
+P04156,Major prion protein,0.560952194711817
+P04179,"Superoxide dismutase [Mn], mitochondrial",0.852797177767581
+P04180,Phosphatidylcholine-sterol acyltransferase,1.36854558197955
+P04196,Histidine-rich glycoprotein,0.898512802947944
+P04211,Immunoglobulin lambda variable 7-43,0.038626614831811
+P04216,Thy-1 membrane glycoprotein,0.803608781591488
+P04217,Alpha-1B-glycoprotein,3.05435293391479
+P04264,"Keratin, type II cytoskeletal 1",0.140281830781115
+P04275,von Willebrand factor,16.8166206781567
+P04278,Sex hormone-binding globulin,17.953835297316
+P04406,Glyceraldehyde-3-phosphate dehydrogenase,0.454483116703511
+P04424,Argininosuccinate lyase,2.94964803017434
+P04430,Immunoglobulin kappa variable 1-16,0.00737970548021311
+P04433,Immunoglobulin kappa variable 3-11,0.00363761692499204
+P04439,"HLA class I histocompatibility antigen, A alpha chain",2.15380874727041
+P04632,Calpain small subunit 1,0.779307293500002
+P04746,Pancreatic alpha-amylase,1.06908658985533
+P04792,Heat shock protein beta-1,1.3451425495548
+P04899,Guanine nucleotide-binding protein G(i) subunit alpha-2,1.9720659289591
+P04908,Histone H2A type 1-B/E,0.291507689440668
+P05019,Insulin-like growth factor I,1.15179018228006
+P05062,Fructose-bisphosphate aldolase B,2.0430717339909
+P05067,Amyloid-beta precursor protein,20.9333112897888
+P05089,Arginase-1,0.867077553355015
+P05090,Apolipoprotein D,0.153440605521637
+P05091,"Aldehyde dehydrogenase, mitochondrial",7.77875371612401
+P05106,Integrin beta-3,754.142454615905
+P05107,Integrin beta-2,1.44282521654832
+P05109,Protein S100-A8,2.49541947018247
+P05120,Plasminogen activator inhibitor 2,0.189328043798574
+P05121,Plasminogen activator inhibitor 1,4.73194472636659
+P05154,Plasma serine protease inhibitor,3.32195669456637
+P05155,Plasma protease C1 inhibitor,4.69372947060447
+P05156,Complement factor I,3.84170160112192
+P05160,Coagulation factor XIII B chain,53.6550305784105
+P05164,Myeloperoxidase,4.61470322851117
+P05186,"Alkaline phosphatase, tissue-nonspecific isozyme",32.8343557119312
+P05198,Eukaryotic translation initiation factor 2 subunit 1,1.58066120334314
+P05204,Non-histone chromosomal protein HMG-17,0.321949158045653
+P05362,Intercellular adhesion molecule 1,10.855136322234
+P05388,60S acidic ribosomal protein P0,1.96186512247763
+P05451,Lithostathine-1-alpha,0.415112880936498
+P05452,Tetranectin,1.51184746563458
+P05543,Thyroxine-binding globulin,14.0272250978101
+P05546,Heparin cofactor 2,4.56982894714357
+P05556,Integrin beta-1,2.59817023495453
+P05783,"Keratin, type I cytoskeletal 18",0.0849106833654391
+P05787,"Keratin, type II cytoskeletal 8",0.0616112302769067
+P05997,Collagen alpha-2(V) chain,0.564332998752964
+P06132,Uroporphyrinogen decarboxylase,6.67645630057526
+P06276,Cholinesterase,20.933836724359
+P06310,Immunoglobulin kappa variable 2-30,0.0332032813720339
+P06312,Immunoglobulin kappa variable 4-1,0.0100528630508147
+P06331,Immunoglobulin heavy variable 4-34,0.0120406902601576
+P06396,Gelsolin,0.93383734155154
+P06454,Prothymosin alpha,0.0945264446607031
+P06681,Complement C2,2.1909521216254
+P06702,Protein S100-A9,2.36282828853457
+P06703,Protein S100-A6,6.04530679558951
+P06727,Apolipoprotein A-IV,8.26499262112267
+P06732,Creatine kinase M-type,1.11256346636814
+P06733,Alpha-enolase,1.30040792406887
+P06737,"Glycogen phosphorylase, liver form",4.52968402690811
+P06744,Glucose-6-phosphate isomerase,3.35669776583175
+P06753,Tropomyosin alpha-3 chain,2.4217121010518
+P06858,Lipoprotein lipase,1.4476058361576
+P07093,Glia-derived nexin,2.06606535085164
+P07148,"Fatty acid-binding protein, liver",2.26444388598874
+P07195,L-lactate dehydrogenase B chain,3.92108516325356
+P07225,Vitamin K-dependent protein S,12.6444369153311
+P07237,Protein disulfide-isomerase,14.956729821735
+P07327,Alcohol dehydrogenase 1A,2.15024563662974
+P07333,Macrophage colony-stimulating factor 1 receptor,2.70679903338371
+P07339,Cathepsin D,5.05303925188462
+P07355,Annexin A2,0.102628717742556
+P07357,Complement component C8 alpha chain,0.686071422212858
+P07358,Complement component C8 beta chain,2.2441917738791
+P07359,Platelet glycoprotein Ib alpha chain,12.1516868841247
+P07360,Complement component C8 gamma chain,0.999484884807623
+P07384,Calpain-1 catalytic subunit,3.13620776183106
+P07437,Tubulin beta chain,2.80801210722496
+P07451,Carbonic anhydrase 3,1.01387859887747
+P07478,Trypsin-2,0.0466901898156746
+P07686,Beta-hexosaminidase subunit beta,2.50895933400733
+P07711,Procathepsin L,0.73163949056738
+P07737,Profilin-1,1.86886410905194
+P07738,Bisphosphoglycerate mutase,2.35428201110399
+P07741,Adenine phosphoribosyltransferase,1.26563097075364
+P07814,Bifunctional glutamate/proline--tRNA ligase,0.106779473230175
+P07858,Cathepsin B,0.926323422813566
+P07900,Heat shock protein HSP 90-alpha,6.85773296101365
+P07910,Heterogeneous nuclear ribonucleoproteins C1/C2,0.55200432371346
+P07954,"Fumarate hydratase, mitochondrial",0.70234290628252
+P07996,Thrombospondin-1,1.63017462468753
+P07998,Ribonuclease pancreatic,1.73258242092917
+P08123,Collagen alpha-2(I) chain,2.05538925016053
+P08133,Annexin A6,6.95904315870364
+P08185,Corticosteroid-binding globulin,4.04447107047817
+P08195,4F2 cell-surface antigen heavy chain,8.53330840904529
+P08238,Heat shock protein HSP 90-beta,4.89691217587485
+P08246,Neutrophil elastase,0.598326434693619
+P08253,72 kDa type IV collagenase,30.1803007673764
+P08254,Stromelysin-1,0.916981967152338
+P08263,Glutathione S-transferase A1,2.92822876336831
+P08294,Extracellular superoxide dismutase [Cu-Zn],7.0898242199936
+P08311,Cathepsin G,2.61172962479863
+P08319,All-trans-retinol dehydrogenase [NAD(+)] ADH4,0.976416204403881
+P08397,Porphobilinogen deaminase,1.05079868076877
+P08493,Matrix Gla protein,0.968411768477429
+P08514,Integrin alpha-IIb,2.41549737562832
+P08519,Apolipoprotein(a),0.662118213858399
+P08567,Pleckstrin,0.872405008366941
+P08571,Monocyte differentiation antigen CD14,21.1851750344316
+P08603,Complement factor H,1.82860151328648
+P08637,Low affinity immunoglobulin gamma Fc region receptor III-A,12.0108561145638
+P08670,Vimentin,0.300314367782632
+P08697,Alpha-2-antiplasmin,9.5785184938609
+P08709,Coagulation factor VII,6.00370399578362
+P08758,Annexin A5,5.46371776339391
+P08779,"Keratin, type I cytoskeletal 16",0.0611552051232852
+P08865,40S ribosomal protein SA,1.67344005260544
+P09105,Hemoglobin subunit theta-1,0.355185401451791
+P09110,"3-ketoacyl-CoA thiolase, peroxisomal",0.435484254651175
+P09172,Dopamine beta-hydroxylase,21.1455625334595
+P09211,Glutathione S-transferase P,2.90617135249365
+P09382,Galectin-1,5.29465788397459
+P09429,High mobility group protein B1,1.14362478616023
+P09467,"Fructose-1,6-bisphosphatase 1",2.45604312372318
+P09486,SPARC,1.26893825474215
+P09488,Glutathione S-transferase Mu 1,4.83796971935032
+P09525,Annexin A4,4.53202388109025
+P09622,"Dihydrolipoyl dehydrogenase, mitochondrial",1.17013128825497
+P09651,Heterogeneous nuclear ribonucleoprotein A1,1.4865226644595
+P09668,Pro-cathepsin H,1.1719411094075
+P09871,Complement C1s subcomponent,77.6076410981121
+P09960,Leukotriene A-4 hydrolase,5.62221599113399
+P09972,Fructose-bisphosphate aldolase C,1.49006711088793
+P0C0L5,Complement C4-B,1.87264529719321
+P0CG47,Polyubiquitin-B,1.55453794881172
+P0DJI8,Serum amyloid A-1 protein,0.0388846671664467
+P0DJI9,Serum amyloid A-2 protein,0.0140864827955504
+P0DMV8,Heat shock 70 kDa protein 1A,2.11014933070378
+P0DN79,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",0.935216009442573
+P0DOX2,Immunoglobulin alpha-2 heavy chain,0.161393987754656
+P0DOX3,Immunoglobulin delta heavy chain,0.0855914531645173
+P0DOX6,Immunoglobulin mu heavy chain,0.0612547602874573
+P0DOX7,Immunoglobulin kappa light chain,0.00567775146770203
+P0DOX8,Immunoglobulin lambda-1 light chain,0.0124074501374878
+P0DOY2,Immunoglobulin lambda constant 2,0.0116020239473637
+P0DP01,Immunoglobulin heavy variable 1-8,0.0160575666253617
+P0DP04,Immunoglobulin heavy variable 3-43D,0.0079738946776034
+P0DP08,Immunoglobulin heavy variable 4-38-2,0.0223211190093661
+P0DTE1,Probable non-functional immunoglobulin heavy variable 3-38-3,0.0042605595238493
+P10124,Serglycin,7.75066488197922
+P10153,Non-secretory ribonuclease,2.91974386111769
+P10155,RNA-binding protein RO60,0.896301998271156
+P10412,Histone H1.4,0.969746119786739
+P10599,Thioredoxin,0.868189471012397
+P10619,Lysosomal protective protein,1.29352409037035
+P10643,Complement component C7,1.04376422542394
+P10644,cAMP-dependent protein kinase type I-alpha regulatory subunit,2.29707471471479
+P10645,Chromogranin-A,25.9338041104266
+P10720,Platelet factor 4 variant,1.18775869083404
+P10768,S-formylglutathione hydrolase,1.47957446763508
+P10809,"60 kDa heat shock protein, mitochondrial",0.238318536247131
+P10909,Clusterin,85.7621050492335
+P11021,Endoplasmic reticulum chaperone BiP,6.50181456854202
+P11047,Laminin subunit gamma-1,7.98284501869201
+P11142,Heat shock cognate 71 kDa protein,2.07116645261987
+P11150,Hepatic triacylglycerol lipase,4.38536207407659
+P11166,"Solute carrier family 2, facilitated glucose transporter member 1",1.64012155377048
+P11215,Integrin alpha-M,6.40168024820864
+P11216,"Glycogen phosphorylase, brain form",2.79637261397653
+P11217,"Glycogen phosphorylase, muscle form",0.65131943993557
+P11226,Mannose-binding protein C,1.95342898285593
+P11279,Lysosome-associated membrane glycoprotein 1,1.43597045258457
+P11413,Glucose-6-phosphate 1-dehydrogenase,3.81700998062496
+P11586,"C-1-tetrahydrofolate synthase, cytoplasmic",1.18471663131061
+P11597,Cholesteryl ester transfer protein,0.255619251718861
+P11717,Cation-independent mannose-6-phosphate receptor,39.1038013125773
+P11766,Alcohol dehydrogenase class-3,0.298579272528571
+P11940,Polyadenylate-binding protein 1,5.04259028617571
+P12081,"Histidine--tRNA ligase, cytoplasmic",0.51280245797127
+P12109,Collagen alpha-1(VI) chain,7.16525308211396
+P12110,Collagen alpha-2(VI) chain,5.43150869980602
+P12111,Collagen alpha-3(VI) chain,4.10021066520034
+P12259,Coagulation factor V,3.49128021035321
+P12429,Annexin A3,6.02765199067936
+P12532,"Creatine kinase U-type, mitochondrial",0.229894407288139
+P12814,Alpha-actinin-1,15.1890652328206
+P12821,Angiotensin-converting enzyme,6.20192814056609
+P12830,Cadherin-1,28.2871149915674
+P12931,Proto-oncogene tyrosine-protein kinase Src,0.867930960298163
+P12955,Xaa-Pro dipeptidase,32.7500293954445
+P13473,Lysosome-associated membrane glycoprotein 2,72.3911743691463
+P13497,Bone morphogenetic protein 1,1.91336132339486
+P13501,C-C motif chemokine 5,0.265195598366155
+P13591,Neural cell adhesion molecule 1,37.9878937936841
+P13598,Intercellular adhesion molecule 2,129.224246103647
+P13611,Versican core protein,3.32913195929105
+P13639,Elongation factor 2,2.10478080767438
+P13645,"Keratin, type I cytoskeletal 10",0.224755301748253
+P13646,"Keratin, type I cytoskeletal 13",0.659266635505085
+P13647,"Keratin, type II cytoskeletal 5",0.0412955453259376
+P13671,Complement component C6,0.985299456733864
+P13716,Delta-aminolevulinic acid dehydratase,2.62513797622592
+P13727,Bone marrow proteoglycan,10.2848465962907
+P13796,Plastin-2,10.4953119632938
+P13797,Plastin-3,18.6179899995317
+P13929,Beta-enolase,0.524326195180133
+P13987,CD59 glycoprotein,7.68468153093241
+P14151,L-selectin,18.7143758970172
+P14174,Macrophage migration inhibitory factor,0.392902515263085
+P14207,Folate receptor beta,0.757391875606557
+P14222,Perforin-1,2.29984159387929
+P14317,Hematopoietic lineage cell-specific protein,3.22392614930786
+P14324,Farnesyl pyrophosphate synthase,2.99297973664143
+P14384,Carboxypeptidase M,5.32466055156873
+P14543,Nidogen-1,72.5757527763179
+P14550,Aldo-keto reductase family 1 member A1,2.2608328712372
+P14598,Neutrophil cytosol factor 1,14.6696701205846
+P14618,Pyruvate kinase PKM,1.37195586116402
+P14621,Acylphosphatase-2,0.684347624474572
+P14625,Endoplasmin,8.18958288365073
+P14770,Platelet glycoprotein IX,0.878881297459425
+P14780,Matrix metalloproteinase-9,4.45460640224728
+P14868,"Aspartate--tRNA ligase, cytoplasmic",5.42954145075403
+P14923,Junction plakoglobin,0.0508729752200139
+P15085,Carboxypeptidase A1,2.74069885832027
+P15086,Carboxypeptidase B,0.510457903750361
+P15090,"Fatty acid-binding protein, adipocyte",0.486356638524221
+P15121,Aldo-keto reductase family 1 member B1,0.695007833687848
+P15144,Aminopeptidase N,8.23116873277693
+P15153,Ras-related C3 botulinum toxin substrate 2,0.887014882660781
+P15169,Carboxypeptidase N catalytic chain,1.79890358632026
+P15291,"Beta-1,4-galactosyltransferase 1",5.16850987240145
+P15311,Ezrin,1.20017295588111
+P15814,Immunoglobulin lambda-like polypeptide 1,0.0128892064851391
+P15907,"Beta-galactoside alpha-2,6-sialyltransferase 1",1.34726814734508
+P16035,Metalloproteinase inhibitor 2,0.988019048368638
+P16070,CD44 antigen,43.2339314985966
+P16083,Ribosyldihydronicotinamide dehydrogenase [quinone],3.01380968818684
+P16150,Leukosialin,8.18858893769561
+P16152,Carbonyl reductase [NADPH] 1,1.35887000043401
+P16401,Histone H1.5,0.192295531991342
+P16930,Fumarylacetoacetase,2.61518704977045
+P16949,Stathmin,0.382426662466883
+P17174,"Aspartate aminotransferase, cytoplasmic",1.20020434014304
+P17405,Sphingomyelin phosphodiesterase,0.718119070567819
+P17516,Aldo-keto reductase family 1 member C4,0.355050143763076
+P17612,cAMP-dependent protein kinase catalytic subunit alpha,2.4585424565104
+P17900,Ganglioside GM2 activator,0.716117043358154
+P17927,Complement receptor type 1,2.14281942185773
+P17931,Galectin-3,0.0305024142215723
+P17936,Insulin-like growth factor-binding protein 3,1.50548743819941
+P18054,Polyunsaturated fatty acid lipoxygenase ALOX12,1.52720002339994
+P18065,Insulin-like growth factor-binding protein 2,0.693718890669593
+P18206,Vinculin,6.47171646484569
+P18428,Lipopolysaccharide-binding protein,3.83845628690968
+P18510,Interleukin-1 receptor antagonist protein,0.784474867161953
+P18669,Phosphoglycerate mutase 1,1.80385603598481
+P18850,Cyclic AMP-dependent transcription factor ATF-6 alpha,4.3092060829241
+P19021,Peptidyl-glycine alpha-amidating monooxygenase,2.40260860372989
+P19320,Vascular cell adhesion protein 1,55.7890205416115
+P19367,Hexokinase-1,3.61558308001858
+P19397,Leukocyte surface antigen CD53,12.0961319998016
+P19440,Glutathione hydrolase 1 proenzyme,2.27692660511707
+P19652,Alpha-1-acid glycoprotein 2,0.0637975430449154
+P19823,Inter-alpha-trypsin inhibitor heavy chain H2,1.63780599631381
+P19827,Inter-alpha-trypsin inhibitor heavy chain H1,2.15353863652729
+P19878,Neutrophil cytosol factor 2,6.58887368207184
+P19971,Thymidine phosphorylase,4.01277761987737
+P20023,Complement receptor type 2,1.53581594793059
+P20042,Eukaryotic translation initiation factor 2 subunit 2,1.06975649088411
+P20062,Transcobalamin-2,1.60480820981052
+P20073,Annexin A7,2.23884027521754
+P20160,Azurocidin,3.48356767847552
+P20231,Tryptase beta-2,0.364905145552276
+P20618,Proteasome subunit beta type-1,0.832216836609933
+P20742,Pregnancy zone protein,5.77071923404529
+P20774,Mimecan,7.65613248781702
+P20827,Ephrin-A1,1.53641315501767
+P20851,C4b-binding protein beta chain,5.53428011490126
+P20908,Collagen alpha-1(V) chain,4.92195056467219
+P21291,Cysteine and glycine-rich protein 1,1.53940846299206
+P21333,Filamin-A,1.77480327509974
+P21399,Cytoplasmic aconitate hydratase,3.18718029900214
+P21549,Serine--pyruvate aminotransferase,4.48570296886507
+P21695,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",13.9543234494382
+P21810,Biglycan,3.42351338118889
+P21980,Protein-glutamine gamma-glutamyltransferase 2,4.93022765776537
+P22061,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,0.898581605213406
+P22102,Trifunctional purine biosynthetic protein adenosine-3,3.26074018340718
+P22105,Tenascin-X,59.1802276700728
+P22304,Iduronate 2-sulfatase,0.601987073627723
+P22307,Sterol carrier protein 2,0.984254826842245
+P22314,Ubiquitin-like modifier-activating enzyme 1,9.32412237914827
+P22352,Glutathione peroxidase 3,3.99984048998792
+P22392,Nucleoside diphosphate kinase B,2.16053168759413
+P22626,Heterogeneous nuclear ribonucleoproteins A2/B1,1.20279022698044
+P22692,Insulin-like growth factor-binding protein 4,1.03685776421701
+P22792,Carboxypeptidase N subunit 2,8.15870602529346
+P22891,Vitamin K-dependent protein Z,42.5276695982588
+P22894,Neutrophil collagenase,5.17335593060549
+P22897,Macrophage mannose receptor 1,11.4746023920082
+P23083,Immunoglobulin heavy variable 1-2,0.0159281723254237
+P23141,Liver carboxylesterase 1,2.99844547014126
+P23142,Fibulin-1,6.20869231050667
+P23284,Peptidyl-prolyl cis-trans isomerase B,5.51519039256095
+P23381,"Tryptophan--tRNA ligase, cytoplasmic",2.44905263069375
+P23470,Receptor-type tyrosine-protein phosphatase gamma,56.7504574996504
+P23526,Adenosylhomocysteinase,2.49694162133309
+P23528,Cofilin-1,0.836244983941502
+P23919,Thymidylate kinase,1.79116552113179
+P24158,Myeloblastin,0.622271052109025
+P24298,Alanine aminotransferase 1,5.07212309510886
+P24592,Insulin-like growth factor-binding protein 6,0.868448431307271
+P24593,Insulin-like growth factor-binding protein 5,2.35866600471876
+P24666,Low molecular weight phosphotyrosine protein phosphatase,3.09765213985683
+P24752,"Acetyl-CoA acetyltransferase, mitochondrial",1.93022814398906
+P24821,Tenascin,3.8134712962499
+P25098,Beta-adrenergic receptor kinase 1,1.77700690608935
+P25311,Zinc-alpha-2-glycoprotein,190.535890496088
+P25325,3-mercaptopyruvate sulfurtransferase,4.30747433336196
+P25398,40S ribosomal protein S12,1.80754205630093
+P25774,Cathepsin S,1.33157663124899
+P25786,Proteasome subunit alpha type-1,1.53617061883588
+P25787,Proteasome subunit alpha type-2,0.971454544610134
+P25788,Proteasome subunit alpha type-3,0.796824134503341
+P25789,Proteasome subunit alpha type-4,3.14020353828735
+P26022,Pentraxin-related protein PTX3,4.98918666146762
+P26038,Moesin,3.175989710596
+P26196,Probable ATP-dependent RNA helicase DDX6,0.245354370072492
+P26447,Protein S100-A4,4.85785166060212
+P26572,"Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",9.11855814993496
+P26583,High mobility group protein B2,0.809828627068584
+P26599,Polypyrimidine tract-binding protein 1,0.165459035714064
+P26641,Elongation factor 1-gamma,1.59448089014954
+P26927,Hepatocyte growth factor-like protein,2.4461866731922
+P26992,Ciliary neurotrophic factor receptor subunit alpha,3.75087801928066
+P27105,Stomatin,3.23194524543733
+P27169,Serum paraoxonase/arylesterase 1,1.61807876314317
+P27348,14-3-3 protein theta,1.14377556374072
+P27487,Dipeptidyl peptidase 4,13.2093741894625
+P27797,Calreticulin,29.5936568266674
+P27918,Properdin,1.72041182795587
+P28066,Proteasome subunit alpha type-5,2.89952668996185
+P28070,Proteasome subunit beta type-4,1.57360318698469
+P28072,Proteasome subunit beta type-6,1.59116334303064
+P28074,Proteasome subunit beta type-5,1.71548864980382
+P28161,Glutathione S-transferase Mu 2,1.54699432261853
+P28332,Alcohol dehydrogenase 6,3.73361520360414
+P28676,Grancalcin,8.17907252964614
+P28799,Progranulin,1.85812637462687
+P28827,Receptor-type tyrosine-protein phosphatase mu,1.07032127575321
+P28838,Cytosol aminopeptidase,5.19701305088732
+P29122,Proprotein convertase subtilisin/kexin type 6,0.4067313641731
+P29144,Tripeptidyl-peptidase 2,4.70651811444059
+P29218,Inositol monophosphatase 1,3.2779305477582
+P29350,Tyrosine-protein phosphatase non-receptor type 6,0.873400973569967
+P29401,Transketolase,1.4381455091089
+P29622,Kallistatin,7.20658743476858
+P30040,Endoplasmic reticulum resident protein 29,0.812210830173035
+P30041,Peroxiredoxin-6,1.67956912959627
+P30043,Flavin reductase (NADPH),1.50634530845596
+P30044,"Peroxiredoxin-5, mitochondrial",0.914470038348134
+P30046,D-dopachrome decarboxylase,1.61367442817947
+P30050,60S ribosomal protein L12,3.22720042458007
+P30085,UMP-CMP kinase,1.93689608674048
+P30086,Phosphatidylethanolamine-binding protein 1,1.76610106865763
+P30101,Protein disulfide-isomerase A3,2.68841771792367
+P30520,Adenylosuccinate synthetase isozyme 2,2.89808506692165
+P30530,Tyrosine-protein kinase receptor UFO,0.0525620225440683
+P30613,Pyruvate kinase PKLR,1.30762684502988
+P30740,Leukocyte elastase inhibitor,2.68512018905035
+P31146,Coronin-1A,0.932994114437881
+P31151,Protein S100-A7,0.130896740383282
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",1.16237782320245
+P31937,"3-hydroxyisobutyrate dehydrogenase, mitochondrial",1.41998875018073
+P31939,Bifunctional purine biosynthesis protein ATIC,1.99964373136362
+P31944,Caspase-14,0.111671251035389
+P31946,14-3-3 protein beta/alpha,5.04549115232172
+P31948,Stress-induced-phosphoprotein 1,1.1650343257506
+P31949,Protein S100-A11,1.05952331194692
+P32119,Peroxiredoxin-2,2.91618810817661
+P32754,4-hydroxyphenylpyruvate dioxygenase,3.46962327604989
+P32942,Intercellular adhesion molecule 3,37.4466124598316
+P33151,Cadherin-5,128.233519518624
+P33316,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial",1.11461658675967
+P33908,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA",3.50891652155182
+P34096,Ribonuclease 4,1.43345859665245
+P34896,"Serine hydroxymethyltransferase, cytosolic",1.64727680676401
+P34932,Heat shock 70 kDa protein 4,4.12844342731713
+P35030,Trypsin-3,0.0784379356650132
+P35052,Glypican-1,6.50504422119975
+P35237,Serpin B6,5.95268794899926
+P35247,Pulmonary surfactant-associated protein D,0.601795455610954
+P35268,60S ribosomal protein L22,0.7904680664922
+P35442,Thrombospondin-2,2.85850909322457
+P35443,Thrombospondin-4,8.85407205389882
+P35527,"Keratin, type I cytoskeletal 9",0.049795549438797
+P35542,Serum amyloid A-4 protein,0.0319784673202161
+P35555,Fibrillin-1,2.75736286240708
+P35573,Glycogen debranching enzyme,1.76818717540327
+P35579,Myosin-9,3.72505138471198
+P35590,Tyrosine-protein kinase receptor Tie-1,1.77119152789768
+P35613,Basigin,0.466017775234173
+P35637,RNA-binding protein FUS,0.34993786058283
+P35754,Glutaredoxin-1,0.282691757077943
+P35858,Insulin-like growth factor-binding protein complex acid labile subunit,6.52558571473022
+P35908,"Keratin, type II cytoskeletal 2 epidermal",0.170925715387852
+P36222,Chitinase-3-like protein 1,0.905240513145437
+P36269,Glutathione hydrolase 5 proenzyme,1.94368356325172
+P36405,ADP-ribosylation factor-like protein 3,1.76653291404785
+P36507,Dual specificity mitogen-activated protein kinase kinase 2,5.63740953245965
+P36551,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",0.715488087446381
+P36871,Phosphoglucomutase-1,3.59119750733244
+P36955,Pigment epithelium-derived factor,2.28119516123374
+P36959,GMP reductase 1,1.4327544596937
+P36969,Phospholipid hydroperoxide glutathione peroxidase,0.604377537171547
+P36980,Complement factor H-related protein 2,2.31146654603238
+P37802,Transgelin-2,1.18241038531599
+P37837,Transaldolase,4.32767084483693
+P38159,"RNA-binding motif protein, X chromosome",0.659836143597107
+P39059,Collagen alpha-1(XV) chain,0.689667603518479
+P39060,Collagen alpha-1(XVIII) chain,0.929179785649145
+P40121,Macrophage-capping protein,2.85376666189174
+P40197,Platelet glycoprotein V,1.94188388962478
+P40227,T-complex protein 1 subunit zeta,0.328238213054577
+P40261,Nicotinamide N-methyltransferase,0.0346272865880973
+P40925,"Malate dehydrogenase, cytoplasmic",3.44732365998394
+P40926,"Malate dehydrogenase, mitochondrial",0.389904197941895
+P41222,Prostaglandin-H2 D-isomerase,1.90787980053377
+P41226,Ubiquitin-like modifier-activating enzyme 7,4.44387926173516
+P41240,Tyrosine-protein kinase CSK,2.98852032469726
+P42126,"Enoyl-CoA delta isomerase 1, mitochondrial",2.7621006791461
+P42330,Aldo-keto reductase family 1 member C3,0.538151115582605
+P42331,Rho GTPase-activating protein 25,0.936272709723509
+P42574,Caspase-3,1.74569830548341
+P42765,"3-ketoacyl-CoA thiolase, mitochondrial",1.31157901241019
+P42768,Wiskott-Aldrich syndrome protein,2.16374889060302
+P42785,Lysosomal Pro-X carboxypeptidase,4.80887336593047
+P43034,Platelet-activating factor acetylhydrolase IB subunit beta,1.56104883197546
+P43121,Cell surface glycoprotein MUC18,84.5583785871168
+P43251,Biotinidase,12.265711390971
+P43405,Tyrosine-protein kinase SYK,1.07171439359859
+P43490,Nicotinamide phosphoribosyltransferase,2.39766285853736
+P43652,Afamin,4.04937867566275
+P46109,Crk-like protein,2.24396535428554
+P46734,Dual specificity mitogen-activated protein kinase kinase 3,1.01910192056508
+P47755,F-actin-capping protein subunit alpha-2,1.40419355814735
+P47756,F-actin-capping protein subunit beta,2.61527002580966
+P47914,60S ribosomal protein L29,1.81253634197246
+P48059,LIM and senescent cell antigen-like-containing domain protein 1,0.745198312279304
+P48060,Glioma pathogenesis-related protein 1,0.538935604310052
+P48061,Stromal cell-derived factor 1,0.356283878196457
+P48426,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,1.12180688518362
+P48444,Coatomer subunit delta,2.93483118129302
+P48506,Glutamate--cysteine ligase catalytic subunit,1.591755296435
+P48507,Glutamate--cysteine ligase regulatory subunit,1.33648593971131
+P48595,Serpin B10,0.0911202351055469
+P48637,Glutathione synthetase,3.53975678412459
+P48735,"Isocitrate dehydrogenase [NADP], mitochondrial",0.856729787595926
+P48740,Mannan-binding lectin serine protease 1,93.1771160100648
+P49189,4-trimethylaminobutyraldehyde dehydrogenase,0.301375652569443
+P49247,Ribose-5-phosphate isomerase,0.312835700685264
+P49327,Fatty acid synthase,2.78391386991112
+P49368,T-complex protein 1 subunit gamma,1.01424947356613
+P49407,Beta-arrestin-1,2.22685670370113
+P49641,Alpha-mannosidase 2x,3.87568454662187
+P49720,Proteasome subunit beta type-3,3.53705402978659
+P49721,Proteasome subunit beta type-2,2.58409488720737
+P49747,Cartilage oligomeric matrix protein,9.43216400762677
+P49767,Vascular endothelial growth factor C,1.51320370737235
+P49908,Selenoprotein P,1.59788177542319
+P49913,Cathelicidin antimicrobial peptide,0.819090429143986
+P50120,Retinol-binding protein 2,2.4299758209314
+P50225,Sulfotransferase 1A1,2.85454132309462
+P50395,Rab GDP dissociation inhibitor beta,4.6813670289508
+P50440,"Glycine amidinotransferase, mitochondrial",0.90895184269828
+P50453,Serpin B9,1.73417736905606
+P50502,Hsc70-interacting protein,5.02645429000757
+P50552,Vasodilator-stimulated phosphoprotein,1.06049517494222
+P50591,Tumor necrosis factor ligand superfamily member 10,0.6548915029138
+P50990,T-complex protein 1 subunit theta,1.69245033758803
+P50991,T-complex protein 1 subunit delta,0.867084067437891
+P50995,Annexin A11,1.85052118507011
+P51148,Ras-related protein Rab-5C,0.731250299055755
+P51149,Ras-related protein Rab-7a,0.652002462948711
+P51452,Dual specificity protein phosphatase 3,1.70008895884147
+P51884,Lumican,142.221247094755
+P51888,Prolargin,1.56344738887404
+P51991,Heterogeneous nuclear ribonucleoprotein A3,0.891486265632253
+P52209,"6-phosphogluconate dehydrogenase, decarboxylating",3.03970129938477
+P52565,Rho GDP-dissociation inhibitor 1,10.5532277681639
+P52566,Rho GDP-dissociation inhibitor 2,9.66295842483708
+P52594,Arf-GAP domain and FG repeat-containing protein 1,0.846828425534403
+P52790,Hexokinase-3,2.44332717529875
+P52888,Thimet oligopeptidase,1.25986881793331
+P52895,Aldo-keto reductase family 1 member C2,0.432242109427631
+P52907,F-actin-capping protein subunit alpha-1,2.51561395008407
+P53004,Biliverdin reductase A,3.6422300316909
+P53396,ATP-citrate synthase,1.51380979602643
+P53602,Diphosphomevalonate decarboxylase,1.08597145512294
+P53634,Dipeptidyl peptidase 1,1.83973002214428
+P53990,IST1 homolog,0.810839116498092
+P54108,Cysteine-rich secretory protein 3,5.41110388360886
+P54577,"Tyrosine--tRNA ligase, cytoplasmic",1.94243357191819
+P54578,Ubiquitin carboxyl-terminal hydrolase 14,0.808642166010301
+P54727,UV excision repair protein RAD23 homolog B,6.35034179703203
+P54760,Ephrin type-B receptor 4,5.91890056646099
+P54802,Alpha-N-acetylglucosaminidase,9.32628668090399
+P54819,"Adenylate kinase 2, mitochondrial",1.1200765804122
+P54868,"Hydroxymethylglutaryl-CoA synthase, mitochondrial",2.69153624939087
+P55008,Allograft inflammatory factor 1,0.807028275317986
+P55056,Apolipoprotein C-IV,0.229007968472267
+P55058,Phospholipid transfer protein,0.552353912777274
+P55072,Transitional endoplasmic reticulum ATPase,7.33940934203835
+P55103,Inhibin beta C chain,7.01972440746933
+P55145,Mesencephalic astrocyte-derived neurotrophic factor,0.807688115263606
+P55268,Laminin subunit beta-2,2.70177894859553
+P55774,C-C motif chemokine 18,0.155779666395368
+P55786,Puromycin-sensitive aminopeptidase,0.999984108057488
+P55854,Small ubiquitin-related modifier 3,15.7312131009484
+P55957,BH3-interacting domain death agonist,1.22556443668882
+P56202,Cathepsin W,0.549604434123449
+P58166,Inhibin beta E chain,1.51334991367844
+P58215,Lysyl oxidase homolog 3,1.75670985760135
+P58335,Anthrax toxin receptor 2,0.205982791114404
+P59665,Neutrophil defensin 1,0.311248950224024
+P59998,Actin-related protein 2/3 complex subunit 4,3.50305522331214
+P60022,Beta-defensin 1,0.00731894460589632
+P60174,Triosephosphate isomerase,1.84884106185715
+P60660,Myosin light polypeptide 6,5.6735018286686
+P60866,40S ribosomal protein S20,0.922737308299009
+P60891,Ribose-phosphate pyrophosphokinase 1,2.44486824678699
+P60900,Proteasome subunit alpha type-6,0.957759134327724
+P60903,Protein S100-A10,0.0225232540251976
+P60953,Cell division control protein 42 homolog,0.423197235482384
+P60981,Destrin,1.02534636946571
+P61026,Ras-related protein Rab-10,0.405976073619002
+P61077,Ubiquitin-conjugating enzyme E2 D3,1.56593698571752
+P61086,Ubiquitin-conjugating enzyme E2 K,0.324855442726074
+P61088,Ubiquitin-conjugating enzyme E2 N,1.32290824416919
+P61158,Actin-related protein 3,3.38643856510449
+P61160,Actin-related protein 2,9.00491823008536
+P61204,ADP-ribosylation factor 3,2.17874732137279
+P61224,Ras-related protein Rap-1b,0.161689015765089
+P61247,40S ribosomal protein S3a,0.344348178648998
+P61586,Transforming protein RhoA,0.680498242517135
+P61604,"10 kDa heat shock protein, mitochondrial",0.187593191630908
+P61626,Lysozyme C,1.47087322894824
+P61769,Beta-2-microglobulin,0.274713162729726
+P61916,NPC intracellular cholesterol transporter 2,4.30448270562601
+P61978,Heterogeneous nuclear ribonucleoprotein K,1.05783649988284
+P61981,14-3-3 protein gamma,7.60338228698998
+P62136,Serine/threonine-protein phosphatase PP1-alpha catalytic subunit,1.73547820897452
+P62244,40S ribosomal protein S15a,0.764166571511348
+P62258,14-3-3 protein epsilon,9.29291002238638
+P62263,40S ribosomal protein S14,0.139139252780295
+P62269,40S ribosomal protein S18,0.887857497404855
+P62495,Eukaryotic peptide chain release factor subunit 1,1.51273503464485
+P62736,"Actin, aortic smooth muscle",39.6274702476709
+P62805,Histone H4,0.53176493965061
+P62820,Ras-related protein Rab-1A,1.27239142133329
+P62826,GTP-binding nuclear protein Ran,1.09544825973713
+P62834,Ras-related protein Rap-1A,0.172504618004624
+P62857,40S ribosomal protein S28,0.7862785113559
+P62873,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,0.577137243618858
+P62937,Peptidyl-prolyl cis-trans isomerase A,1.68874406850793
+P62942,Peptidyl-prolyl cis-trans isomerase FKBP1A,0.824264318518567
+P62993,Growth factor receptor-bound protein 2,1.65504289519755
+P63000,Ras-related C3 botulinum toxin substrate 1,0.90361885127467
+P63104,14-3-3 protein zeta/delta,14.8410473619995
+P63220,40S ribosomal protein S21,0.296518789342706
+P63241,Eukaryotic translation initiation factor 5A-1,11.703255262693
+P63244,Receptor of activated protein C kinase 1,0.873564504975068
+P63261,"Actin, cytoplasmic 2",6.29581308026177
+P63279,SUMO-conjugating enzyme UBC9,2.86956961636738
+P67936,Tropomyosin alpha-4 chain,15.4706874390424
+P68036,Ubiquitin-conjugating enzyme E2 L3,0.935133527611668
+P68104,Elongation factor 1-alpha 1,0.792193908608384
+P68363,Tubulin alpha-1B chain,2.58858453201071
+P68366,Tubulin alpha-4A chain,4.12720612140616
+P68871,Hemoglobin subunit beta,0.0495241922405745
+P69849,Nodal modulator 3,3.61741622373003
+P69891,Hemoglobin subunit gamma-1,0.184482967119086
+P69892,Hemoglobin subunit gamma-2,0.269930328786702
+P69905,Hemoglobin subunit alpha,0.0420858485453674
+P78324,Tyrosine-protein phosphatase non-receptor type substrate 1,0.0483622924839784
+P78417,Glutathione S-transferase omega-1,1.78502688749688
+P78509,Reelin,5.60401170345218
+P80108,Phosphatidylinositol-glycan-specific phospholipase D,8.41483238190988
+P80188,Neutrophil gelatinase-associated lipocalin,1.44177218296623
+P80511,Protein S100-A12,0.721092515007942
+P80748,Immunoglobulin lambda variable 3-21,0.0248929940063794
+P84085,ADP-ribosylation factor 5,3.51214030614058
+P98066,Tumor necrosis factor-inducible gene 6 protein,0.622715455875169
+P98160,Basement membrane-specific heparan sulfate proteoglycan core protein,2.08774321703556
+P98179,RNA-binding protein 3,0.879027576871188
+P99999,Cytochrome c,0.54339851597481
+Q00013,55 kDa erythrocyte membrane protein,1.28426919230476
+Q00266,S-adenosylmethionine synthase isoform type-1,0.668778561158247
+Q00688,Peptidyl-prolyl cis-trans isomerase FKBP3,2.03218818896386
+Q00796,Sorbitol dehydrogenase,1.26253434030229
+Q01469,Fatty acid-binding protein 5,0.804939509668148
+Q01518,Adenylyl cyclase-associated protein 1,1.45017269469304
+Q01813,"ATP-dependent 6-phosphofructokinase, platelet type",0.607853937946056
+Q01995,Transgelin,0.632495832009873
+Q02252,"Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",2.87061872487206
+Q02413,Desmoglein-1,0.0409893112928606
+Q02750,Dual specificity mitogen-activated protein kinase kinase 1,1.71203167045565
+Q02809,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",1.40903588324067
+Q02985,Complement factor H-related protein 3,0.26267563845286
+Q03154,Aminoacylase-1,12.4069071257974
+Q03591,Complement factor H-related protein 1,1.53756767258621
+Q04446,"1,4-alpha-glucan-branching enzyme",7.32828635389024
+Q04756,Hepatocyte growth factor activator,1.7121929759906
+Q04760,Lactoylglutathione lyase,9.98808836120871
+Q05315,Galectin-10,2.24884470428166
+Q05513,Protein kinase C zeta type,1.56616594082639
+Q05655,Protein kinase C delta type,6.90315175663805
+Q05682,Caldesmon,0.627921207855906
+Q06033,Inter-alpha-trypsin inhibitor heavy chain H3,2.20159978768056
+Q06278,Aldehyde oxidase,0.0166050391252913
+Q06323,Proteasome activator complex subunit 1,1.8206443406538
+Q06830,Peroxiredoxin-1,1.21036429789274
+Q07075,Glutamyl aminopeptidase,4.61688744453484
+Q07954,Prolow-density lipoprotein receptor-related protein 1,11.562544390979
+Q07960,Rho GTPase-activating protein 1,6.85157720710015
+Q08188,Protein-glutamine gamma-glutamyltransferase E,0.47608066993946
+Q08257,Quinone oxidoreductase,0.835932743506409
+Q08380,Galectin-3-binding protein,15.9001759547339
+Q08495,Dematin,0.99762013470212
+Q08554,Desmocollin-1,0.744972420695579
+Q08752,Peptidyl-prolyl cis-trans isomerase D,2.31676499971897
+Q08830,Fibrinogen-like protein 1,12.2217407551293
+Q08ET2,Sialic acid-binding Ig-like lectin 14,34.0719631839042
+Q09328,"Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A",1.71083145237777
+Q09666,Neuroblast differentiation-associated protein AHNAK,0.411755679028775
+Q10471,Polypeptide N-acetylgalactosaminyltransferase 2,1.25490885640639
+Q10472,Polypeptide N-acetylgalactosaminyltransferase 1,3.00364538463342
+Q10588,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2,6.65411682479455
+Q12794,Hyaluronidase-1,0.126464391954554
+Q12797,Aspartyl/asparaginyl beta-hydroxylase,0.750246187443212
+Q12805,EGF-containing fibulin-like extracellular matrix protein 1,15.7412489661725
+Q12882,Dihydropyrimidine dehydrogenase [NADP(+)],0.286088303070288
+Q12884,Prolyl endopeptidase FAP,23.2506701595292
+Q12906,Interleukin enhancer-binding factor 3,4.38457851384056
+Q12907,Vesicular integral-membrane protein VIP36,6.30608839669214
+Q12913,Receptor-type tyrosine-protein phosphatase eta,22.5609422134591
+Q12974,Protein tyrosine phosphatase type IVA 2,1.73501333651412
+Q13093,Platelet-activating factor acetylhydrolase,1.4910759683866
+Q13094,Lymphocyte cytosolic protein 2,1.55121833325859
+Q13103,Secreted phosphoprotein 24,1.24012832657337
+Q13126,S-methyl-5'-thioadenosine phosphorylase,1.56783654576831
+Q13153,Serine/threonine-protein kinase PAK 1,1.50430779760596
+Q13162,Peroxiredoxin-4,1.05532982669638
+Q13177,Serine/threonine-protein kinase PAK 2,0.683247069308254
+Q13200,26S proteasome non-ATPase regulatory subunit 2,0.0375016253787323
+Q13201,Multimerin-1,1.31526332804723
+Q13217,DnaJ homolog subfamily C member 3,0.541546990705022
+Q13228,Methanethiol oxidase,3.81523220245287
+Q13231,Chitotriosidase-1,3.40803048018842
+Q13232,Nucleoside diphosphate kinase 3,0.435618995899075
+Q13275,Semaphorin-3F,0.581190599889201
+Q13332,Receptor-type tyrosine-protein phosphatase S,1.99774718257021
+Q13361,Microfibrillar-associated protein 5,5.08163000710924
+Q13418,Integrin-linked protein kinase,1.48609457202494
+Q13442,28 kDa heat- and acid-stable phosphoprotein,2.2772512248516
+Q13464,Rho-associated protein kinase 1,0.225947509938651
+Q13477,Mucosal addressin cell adhesion molecule 1,0.730381299325145
+Q13526,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,1.24528620085562
+Q13576,Ras GTPase-activating-like protein IQGAP2,2.09555907343366
+Q13642,Four and a half LIM domains protein 1,1.67783055900864
+Q13822,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,2.84263649432971
+Q13835,Plakophilin-1,0.134265174667766
+Q13867,Bleomycin hydrolase,1.73705160792092
+Q14019,Coactosin-like protein,1.9497595968356
+Q14103,Heterogeneous nuclear ribonucleoprotein D0,0.56334466434344
+Q14210,Lymphocyte antigen 6D,0.3019676031157
+Q14213,Interleukin-27 subunit beta,0.419597903286256
+Q14240,Eukaryotic initiation factor 4A-II,1.39368108619961
+Q14247,Src substrate cortactin,23.652603307112
+Q14254,Flotillin-2,1.70249270276178
+Q14314,Fibroleukin,2.66009319185985
+Q14315,Filamin-C,3.41751767689541
+Q14393,Growth arrest-specific protein 6,3.35770264859076
+Q14515,SPARC-like protein 1,49.1918713793449
+Q14517,Protocadherin Fat 1,2.10495518560344
+Q14520,Hyaluronan-binding protein 2,4.65425904392506
+Q14554,Protein disulfide-isomerase A5,1.74511746725719
+Q14563,Semaphorin-3A,2.43114092505831
+Q14574,Desmocollin-3,1.74386421876681
+Q14624,Inter-alpha-trypsin inhibitor heavy chain H4,2.50617793184787
+Q14697,Neutral alpha-glucosidase AB,3.52600649475659
+Q14766,Latent-transforming growth factor beta-binding protein 1,2.10076283487224
+Q14767,Latent-transforming growth factor beta-binding protein 2,0.525621001182234
+Q14847,LIM and SH3 domain protein 1,1.12928624787486
+Q14914,Prostaglandin reductase 1,4.35427376103441
+Q15019,Septin-2,0.307677641934802
+Q15063,Periostin,2.40815516771721
+Q15080,Neutrophil cytosol factor 4,1.77536836386577
+Q15084,Protein disulfide-isomerase A6,15.7050087460739
+Q15113,Procollagen C-endopeptidase enhancer 1,1.43057587874955
+Q15166,Serum paraoxonase/lactonase 3,2.61674833931352
+Q15257,Serine/threonine-protein phosphatase 2A activator,10.4910251063957
+Q15365,Poly(rC)-binding protein 1,2.06770321059376
+Q15382,GTP-binding protein Rheb,2.30111400168105
+Q15404,Ras suppressor protein 1,1.38353381218826
+Q15485,Ficolin-2,0.115330673890918
+Q15555,Microtubule-associated protein RP/EB family member 2,2.37199524759432
+Q15582,Transforming growth factor-beta-induced protein ig-h3,1.08612093006475
+Q15691,Microtubule-associated protein RP/EB family member 1,0.857384042584237
+Q15746,"Myosin light chain kinase, smooth muscle",0.738617139061893
+Q15819,Ubiquitin-conjugating enzyme E2 variant 2,8.342208198652
+Q15828,Cystatin-M,1.88695646496464
+Q15833,Syntaxin-binding protein 2,1.45714830476292
+Q15843,NEDD8,0.749011065710504
+Q15848,Adiponectin,21.3151878971284
+Q15942,Zyxin,0.875546684479698
+Q16181,Septin-7,1.10790229649819
+Q16270,Insulin-like growth factor-binding protein 7,1.38769147323643
+Q16394,Exostosin-1,2.1213286046567
+Q16539,Mitogen-activated protein kinase 14,2.61780097328834
+Q16543,Hsp90 co-chaperone Cdc37,1.68017374092881
+Q16555,Dihydropyrimidinase-related protein 2,1.84220373664656
+Q16610,Extracellular matrix protein 1,39.4038096646269
+Q16627,C-C motif chemokine 14,1.02856387914637
+Q16658,Fascin,0.61583831825639
+Q16663,C-C motif chemokine 15,3.81063526645454
+Q16706,Alpha-mannosidase 2,4.92755561267984
+Q16775,"Hydroxyacylglutathione hydrolase, mitochondrial",0.937565986450942
+Q16822,"Phosphoenolpyruvate carboxykinase [GTP], mitochondrial",1.99592316336386
+Q16836,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",0.6658054671254
+Q16851,UTP--glucose-1-phosphate uridylyltransferase,2.77450750702216
+Q16853,Membrane primary amine oxidase,7.58806478999933
+Q16881,"Thioredoxin reductase 1, cytoplasmic",1.01475903882347
+Q3LXA3,Triokinase/FMN cyclase,4.25044550448304
+Q3ZCW2,Galectin-related protein,3.05311885370463
+Q4G148,Glucoside xylosyltransferase 1,3.17883230572169
+Q4LDE5,"Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1",2.56436173374732
+Q53RD9,Fibulin-7,1.19117342068088
+Q5D862,Filaggrin-2,0.0652494231669724
+Q5JSP0,"FYVE, RhoGEF and PH domain-containing protein 3",0.334271747053676
+Q5SQ64,Lymphocyte antigen 6 complex locus protein G6f,1.03619970752726
+Q5T749,Keratinocyte proline-rich protein,0.19881941475782
+Q5T750,Skin-specific protein 32,0.218002318034316
+Q5VVQ6,Ubiquitin thioesterase OTU1,0.122041635400506
+Q5VW32,BRO1 domain-containing protein BROX,0.625280780612018
+Q5XPI4,E3 ubiquitin-protein ligase RNF123,0.23723899570041
+Q641Q3,Meteorin-like protein,0.4680978423702
+Q68BL7,Olfactomedin-like protein 2A,11.4809699672741
+Q6E0U4,Dermokine,0.772562867710238
+Q6GTS8,N-fatty-acyl-amino acid synthase/hydrolase PM20D1,0.584161129308182
+Q6IBS0,Twinfilin-2,0.757554844173298
+Q6KB66,"Keratin, type II cytoskeletal 80",0.0167222554779899
+Q6P179,Endoplasmic reticulum aminopeptidase 2,5.35420575488538
+Q6P4A8,Phospholipase B-like 1,0.0581780440167894
+Q6Q788,Apolipoprotein A-V,0.234874011076067
+Q6UWP8,Suprabasin,0.732144428754323
+Q6UX71,Plexin domain-containing protein 2,44.740248577631
+Q6UXB8,Peptidase inhibitor 16,13.6968477873037
+Q6UXH0,Angiopoietin-like protein 8,0.92690063314083
+Q6UXH9,Inactive serine protease PAMR1,4.62785787440983
+Q6UXI9,Nephronectin,1.42412684821307
+Q6UY14,ADAMTS-like protein 4,4.24841130538377
+Q6XQN6,Nicotinate phosphoribosyltransferase,2.88044166573684
+Q6YHK3,CD109 antigen,7.93020790384405
+Q6ZUJ8,Phosphoinositide 3-kinase adapter protein 1,0.684079275588596
+Q70J99,Protein unc-13 homolog D,2.36525122706176
+Q76LX8,A disintegrin and metalloproteinase with thrombospondin motifs 13,20.234687629857
+Q7KZF4,Staphylococcal nuclease domain-containing protein 1,2.08298911418958
+Q7L9L4,MOB kinase activator 1B,2.86131134854077
+Q7LBR1,Charged multivesicular body protein 1b,0.571608729029226
+Q7Z4W1,L-xylulose reductase,0.851557764518554
+Q7Z794,"Keratin, type II cytoskeletal 1b",1.57757377237112
+Q7Z7M8,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8",3.28235521283108
+Q86SF2,N-acetylgalactosaminyltransferase 7,4.33211149092866
+Q86TH1,ADAMTS-like protein 2,5.35429875656255
+Q86U17,Serpin A11,2.98289713956469
+Q86UD1,Out at first protein homolog,10.0328448556208
+Q86UX2,Inter-alpha-trypsin inhibitor heavy chain H5,1.37074803059816
+Q86UX7,Fermitin family homolog 3,2.66536988381336
+Q86VB7,Scavenger receptor cysteine-rich type 1 protein M130,14.6317119928728
+Q86VP6,Cullin-associated NEDD8-dissociated protein 1,4.34150776691283
+Q86X29,Lipolysis-stimulated lipoprotein receptor,6.29940561036595
+Q86YT9,Junctional adhesion molecule-like,3.60332398949117
+Q86YW5,Trem-like transcript 1 protein,4.57763717261548
+Q86YZ3,Hornerin,0.00621339618479126
+Q8IUL8,Cartilage intermediate layer protein 2,1.49165291923914
+Q8IWV2,Contactin-4,1.63961711997327
+Q8IXL6,Extracellular serine/threonine protein kinase FAM20C,1.38323594465798
+Q8IYS5,Osteoclast-associated immunoglobulin-like receptor,20.8295758912051
+Q8N1G4,Leucine-rich repeat-containing protein 47,1.4790706147728
+Q8N1N4,"Keratin, type II cytoskeletal 78",0.016707801106618
+Q8N392,Rho GTPase-activating protein 18,2.51289650113019
+Q8N3T6,Transmembrane protein 132C,1.45665784618057
+Q8N5M4,Tetratricopeptide repeat protein 9C,0.394640564730852
+Q8N6C8,Leukocyte immunoglobulin-like receptor subfamily A member 3,1.07636021335951
+Q8NBP7,Proprotein convertase subtilisin/kexin type 9,1.75257602854725
+Q8NBS9,Thioredoxin domain-containing protein 5,4.05042188885215
+Q8NC51,Plasminogen activator inhibitor 1 RNA-binding protein,1.42316973415543
+Q8NCL4,Polypeptide N-acetylgalactosaminyltransferase 6,1.14946548433902
+Q8NDA2,Hemicentin-2,1.18018123660428
+Q8NES3,"Beta-1,3-N-acetylglucosaminyltransferase lunatic fringe",1.18119995462382
+Q8NI99,Angiopoietin-related protein 6,0.715652326518288
+Q8TD06,Anterior gradient protein 3,2.96451038487211
+Q8TDL5,BPI fold-containing family B member 1,0.0312188549628733
+Q8TEA8,D-aminoacyl-tRNA deacylase 1,0.654809341667932
+Q8TER0,"Sushi, nidogen and EGF-like domain-containing protein 1",1.86496977384773
+Q8WUA8,Tsukushi,0.610629582475944
+Q8WUJ3,Cell migration-inducing and hyaluronan-binding protein,1.74168168880642
+Q8WUM4,Programmed cell death 6-interacting protein,2.00976680056751
+Q8WWA0,Intelectin-1,24.2865708491973
+Q8WWQ8,Stabilin-2,0.958692886660894
+Q8WWV6,High affinity immunoglobulin alpha and immunoglobulin mu Fc receptor,2.98161357563507
+Q8WWZ8,Oncoprotein-induced transcript 3 protein,12.7445406650579
+Q92484,Acid sphingomyelinase-like phosphodiesterase 3a,29.6569183709933
+Q92520,Protein FAM3C,2.28480906333504
+Q92626,Peroxidasin homolog,1.24627601748355
+Q92686,Neurogranin,0.475983431881747
+Q92743,Serine protease HTRA1,0.813471235329181
+Q92820,Gamma-glutamyl hydrolase,3.65441944952343
+Q92823,Neuronal cell adhesion molecule,0.80509362393312
+Q92835,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1",0.710103169036849
+Q92854,Semaphorin-4D,3.34339450886909
+Q92859,Neogenin,2.1123633645145
+Q92882,Osteoclast-stimulating factor 1,1.36196156965926
+Q92896,Golgi apparatus protein 1,2.57073955987103
+Q92954,Proteoglycan 4,3.75195224998517
+Q93063,Exostosin-2,1.67974368802242
+Q93070,Ecto-ADP-ribosyltransferase 4,11.0246120155391
+Q93088,Betaine--homocysteine S-methyltransferase 1,0.919403875752962
+Q969H8,Myeloid-derived growth factor,5.79739817238465
+Q969T9,WW domain-binding protein 2,2.04757112149104
+Q96A00,Protein phosphatase 1 regulatory subunit 14A,2.1722339940582
+Q96DA0,Zymogen granule protein 16 homolog B,4.39192012289179
+Q96DN2,von Willebrand factor C and EGF domain-containing protein,2.83766349976671
+Q96EP5,DAZ-associated protein 1,0.307491987088568
+Q96FN4,Copine-2,4.80438994162472
+Q96G03,Phosphoglucomutase-2,1.78519585646083
+Q96HC4,PDZ and LIM domain protein 5,1.0002025223582
+Q96HI0,Sentrin-specific protease 5,1.36675841177267
+Q96I15,Selenocysteine lyase,0.724385859423891
+Q96IY4,Carboxypeptidase B2,6.14834741507922
+Q96KN2,Beta-Ala-His dipeptidase,90.2993764860777
+Q96MK3,Pseudokinase FAM20A,2.61209401480479
+Q96N76,Urocanate hydratase,1.50708873465121
+Q96P48,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1",1.18365895568881
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2",3.57036486919764
+Q96PD5,N-acetylmuramoyl-L-alanine amidase,2.12415534938279
+Q96QU8,Exportin-6,0.615456938982144
+Q96RD9,Fc receptor-like protein 5,1.01896521290525
+Q96RW7,Hemicentin-1,1.74959018913658
+Q96S96,Phosphatidylethanolamine-binding protein 4,1.91586889285162
+Q96TA1,Protein Niban 2,3.91077598379105
+Q99436,Proteasome subunit beta type-7,1.31874754421703
+Q99439,Calponin-2,1.16363113626364
+Q99497,Parkinson disease protein 7,1.45661526667319
+Q99536,Synaptic vesicle membrane protein VAT-1 homolog,2.66642713696541
+Q99542,Matrix metalloproteinase-19,6.85792003120547
+Q99685,Monoglyceride lipase,0.888990861335271
+Q99715,Collagen alpha-1(XII) chain,1.62908201527103
+Q99719,Septin-5,0.547852604713004
+Q99784,Noelin,32.1723814148999
+Q99798,"Aconitate hydratase, mitochondrial",0.549331860499157
+Q99829,Copine-1,2.37094935358469
+Q99941,Cyclic AMP-dependent transcription factor ATF-6 beta,3.04801246255802
+Q99969,Retinoic acid receptor responder protein 2,2.28147170903255
+Q99972,Myocilin,6.13035364630053
+Q9BR76,Coronin-1B,2.4055963317533
+Q9BRF8,Serine/threonine-protein phosphatase CPPED1,3.73589953054113
+Q9BS26,Endoplasmic reticulum resident protein 44,3.07042560073533
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,3.84082333800282
+Q9BTY2,Plasma alpha-L-fucosidase,5.22612797061436
+Q9BUL8,Programmed cell death protein 10,1.78770826197408
+Q9BWD1,"Acetyl-CoA acetyltransferase, cytosolic",2.55348841810037
+Q9BWP8,Collectin-11,4.83454831679945
+Q9BXJ0,Complement C1q tumor necrosis factor-related protein 5,0.399122143608452
+Q9BXJ4,Complement C1q tumor necrosis factor-related protein 3,2.45681744925623
+Q9BXN1,Asporin,0.0553988099162169
+Q9BXR6,Complement factor H-related protein 5,1.24817383253669
+Q9BYJ0,Fibroblast growth factor-binding protein 2,0.194999237956803
+Q9BZR6,Reticulon-4 receptor,1.498570325606
+Q9GZP4,PITH domain-containing protein 1,10.7793303854432
+Q9GZT8,NIF3-like protein 1,1.52654046296147
+Q9H098,Protein FAM107B,0.252690878545775
+Q9H0E2,Toll-interacting protein,0.616193189976276
+Q9H0W9,Ester hydrolase C11orf54,0.599672489408396
+Q9H173,Nucleotide exchange factor SIL1,9.7955646739691
+Q9H299,SH3 domain-binding glutamic acid-rich-like protein 3,10.5389021853613
+Q9H2M3,S-methylmethionine--homocysteine S-methyltransferase BHMT2,4.30418204391611
+Q9H2X3,C-type lectin domain family 4 member M,8.63888474909344
+Q9H4A4,Aminopeptidase B,5.22259977987562
+Q9H4B7,Tubulin beta-1 chain,2.37013323978825
+Q9H4G4,Golgi-associated plant pathogenesis-related protein 1,0.830868990119972
+Q9H4M9,EH domain-containing protein 1,2.05328063930168
+Q9H6X2,Anthrax toxin receptor 1,0.603964719755889
+Q9H8L6,Multimerin-2,3.14698655315322
+Q9H939,Proline-serine-threonine phosphatase-interacting protein 2,1.4252732978371
+Q9H9E3,Conserved oligomeric Golgi complex subunit 4,0.19996422702144
+Q9HBB8,Cadherin-related family member 5,6.50715684186187
+Q9HBI1,Beta-parvin,3.7224649568455
+Q9HCB6,Spondin-1,0.807475416811973
+Q9HD89,Resistin,0.777499498442659
+Q9HDC9,Adipocyte plasma membrane-associated protein,0.946439622610353
+Q9NPH3,Interleukin-1 receptor accessory protein,6.3489514926275
+Q9NPR2,Semaphorin-4B,1.70963929512569
+Q9NQ38,Serine protease inhibitor Kazal-type 5,0.880397714712796
+Q9NQ76,Matrix extracellular phosphoglycoprotein,2.57976274680892
+Q9NQ79,Cartilage acidic protein 1,8.05489987503166
+Q9NQR4,Omega-amidase NIT2,2.11747789925401
+Q9NR19,"Acetyl-coenzyme A synthetase, cytoplasmic",2.42081087122725
+Q9NR45,Sialic acid synthase,1.40870110702315
+Q9NRN5,Olfactomedin-like protein 3,1.02010849624707
+Q9NRV9,Heme-binding protein 1,1.10690934114494
+Q9NS28,Regulator of G-protein signaling 18,0.886737195083921
+Q9NS62,Thrombospondin type-1 domain-containing protein 1,0.0264241701932789
+Q9NS71,Gastrokine-1,7.10706531577722
+Q9NS98,Semaphorin-3G,0.691356733928139
+Q9NSC7,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",0.00331200392677748
+Q9NTK5,Obg-like ATPase 1,3.17313066853943
+Q9NUQ9,CYFIP-related Rac1 interactor B,6.94957399060231
+Q9NY15,Stabilin-1,4.59792589754555
+Q9NY33,Dipeptidyl peptidase 3,1.7020099073952
+Q9NY97,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2",6.15776791790136
+Q9NZ08,Endoplasmic reticulum aminopeptidase 1,4.7946849679876
+Q9NZK5,Adenosine deaminase 2,5.3766324062397
+Q9NZL9,Methionine adenosyltransferase 2 subunit beta,1.19461702138289
+Q9NZN3,EH domain-containing protein 3,0.78964744848442
+Q9NZP8,Complement C1r subcomponent-like protein,16.4431725450122
+Q9P0L0,Vesicle-associated membrane protein-associated protein A,2.18977868841541
+Q9P0Z9,Peroxisomal sarcosine oxidase,0.816892840768798
+Q9P2T1,GMP reductase 2,1.29437501277069
+Q9UBQ6,Exostosin-like 2,1.68245820587814
+Q9UBQ7,Glyoxylate reductase/hydroxypyruvate reductase,1.06579740367604
+Q9UBV8,Peflin,0.666997724813284
+Q9UBW5,Bridging integrator 2,2.45901872023112
+Q9UBX1,Cathepsin F,1.66673264960436
+Q9UBX5,Fibulin-5,3.59434282471927
+Q9UEW3,Macrophage receptor MARCO,1.47510290287046
+Q9UGI8,Testin,0.534188434494631
+Q9UGM5,Fetuin-B,7.33711553262945
+Q9UHD1,Cysteine and histidine-rich domain-containing protein 1,1.29574659047247
+Q9UHG3,Prenylcysteine oxidase 1,1.65179062429624
+Q9UI42,Carboxypeptidase A4,0.30855551985487
+Q9UJ68,Mitochondrial peptide methionine sulfoxide reductase,7.70205268332217
+Q9UJ70,N-acetyl-D-glucosamine kinase,0.590923168007558
+Q9UJC5,SH3 domain-binding glutamic acid-rich-like protein 2,2.32916107566296
+Q9UJJ9,N-acetylglucosamine-1-phosphotransferase subunit gamma,2.30899001858685
+Q9UJM8,2-Hydroxyacid oxidase 1,6.30089529862733
+Q9UK55,Protein Z-dependent protease inhibitor,8.42467588024595
+Q9UKK9,ADP-sugar pyrophosphatase,2.59789976189868
+Q9UKU9,Angiopoietin-related protein 2,0.597077410993066
+Q9UKZ9,Procollagen C-endopeptidase enhancer 2,2.77546194706289
+Q9UL25,Ras-related protein Rab-21,1.1520375974968
+Q9ULC4,Malignant T-cell-amplified sequence 1,2.20700054123819
+Q9ULF5,Zinc transporter ZIP10,2.14055165506829
+Q9ULV4,Coronin-1C,0.486959984316988
+Q9ULZ3,Apoptosis-associated speck-like protein containing a CARD,1.45775066538823
+Q9UM47,Neurogenic locus notch homolog protein 3,3.44895413635142
+Q9UNF0,Protein kinase C and casein kinase substrate in neurons protein 2,2.67579565711312
+Q9UNH7,Sorting nexin-6,0.111102953665768
+Q9UNN8,Endothelial protein C receptor,57.0355917613202
+Q9UNW1,Multiple inositol polyphosphate phosphatase 1,4.07936802549771
+Q9UQ80,Proliferation-associated protein 2G4,1.32147062985633
+Q9Y240,C-type lectin domain family 11 member A,21.2790268942464
+Q9Y251,Heparanase,2.04573349540589
+Q9Y274,"Type 2 lactosamine alpha-2,3-sialyltransferase",5.05265452330238
+Q9Y279,V-set and immunoglobulin domain-containing protein 4,4.25947274449293
+Q9Y2S6,Translation machinery-associated protein 7,2.21490137156034
+Q9Y2T3,Guanine deaminase,0.464328934358647
+Q9Y2V2,Calcium-regulated heat-stable protein 1,1.50498548070605
+Q9Y376,Calcium-binding protein 39,7.11729801797797
+Q9Y3B8,"Oligoribonuclease, mitochondrial",0.571222204043964
+Q9Y490,Talin-1,4.82921376087392
+Q9Y4C0,Neurexin-3,4.90505764452262
+Q9Y4L1,Hypoxia up-regulated protein 1,1.05987142976848
+Q9Y5C1,Angiopoietin-related protein 3,1.43223314041963
+Q9Y5X9,Endothelial lipase,1.51866099447438
+Q9Y5Y7,Lymphatic vessel endothelial hyaluronic acid receptor 1,90.011058460387
+Q9Y624,Junctional adhesion molecule A,0.744176190216925
+Q9Y646,Carboxypeptidase Q,3.7462365786176
+Q9Y6C2,EMILIN-1,2.71145832755748
+Q9Y6R7,IgGFc-binding protein,23.8381270901107
+Q9Y6Z7,Collectin-10,5.12486054480899
